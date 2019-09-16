@@ -21,7 +21,7 @@ Colour scheme -- Dark blue and white, including the rainbow
 
 Filter/Search by course types 
 **dropdown menu with filtered results ex: Maya, Photoshop, Illustrator, Atom/VsCode. etc** 
-Including learning outcomes and software that would be used
+Including learning outcomes and software that would be used and descriptions of each course
  - Gaming 
  - Tech
  - Marketing / Business
@@ -35,3 +35,8 @@ Student success stories including profile, their current job/internship, small "
 
 
 A homepage with small dots to navigate left or right and links to each category (using lots of imagery and a consistent colour scheme)
+
+
+Showing alumni portfolios, including websites, social media, e-mails (if they are okay with having people reach out to them)
+
+Showing prof portfolios ^^
