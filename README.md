@@ -40,3 +40,4 @@ A homepage with small dots to navigate left or right and links to each category 
 Showing alumni portfolios, including websites, social media, e-mails (if they are okay with having people reach out to them)
 
 Showing prof portfolios ^^
+
