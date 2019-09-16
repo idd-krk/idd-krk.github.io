@@ -16,11 +16,22 @@ Alumni profiles
 Footer
 
 
-Filter/Search by course types
+
+Colour scheme -- Dark blue and white, including the rainbow
+
+Filter/Search by course types 
+**dropdown menu with filtered results ex: Maya, Photoshop, Illustrator, Atom/VsCode. etc** 
+Including learning outcomes and software that would be used
  - Gaming 
  - Tech
  - Marketing / Business
  - Film
  - Web development
-**Can show list of jobs they can get from being in that course**
+ - UX/UI
+**Can show list of jobs they can get from being in that course** 
 
+
+Student success stories including profile, their current job/internship, small "blurb" about the program
+
+
+A homepage with small dots to navigate left or right and links to each category (using lots of imagery and a consistent colour scheme)
