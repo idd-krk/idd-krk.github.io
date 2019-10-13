@@ -1,0 +1,61 @@
+
+h1{
+  color: black;
+  text-align: center;
+}
+
+
+h2{
+  color: black;
+  text-align: center;
+}
+h3{
+  color:black;
+  text-align:center;
+}
+
+img{
+  height: 100%;
+  width: 70%;
+
+}
+
+
+h4{
+  color:black;
+  text-align: center;
+}
+
+p{
+  color:black;
+  text-align: center;
+}
+
+li{
+  color:black;
+  text-align: center;
+  font-weight: bold;
+  list-style-type: none;
+  margin: 40px;
+
+
+
+}
+
+ul{
+  text-align:center;
+  margin: 20px;
+  color:white;
+}
+body{
+  background-color: white;
+
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 5px;
+  width: 100px;
+
+}
