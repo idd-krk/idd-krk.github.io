@@ -1,3 +1,29 @@
+.header {
+overflow:hidden;
+background-color: #28528E;
+padding: 4em 3em
+
+
+}
+
+.header a {
+  color: white;
+  text-align: center;
+  padding:3em;
+  text-decoration: none;
+  font-size: 1em;
+  border-radius: 3em;
+  color: white;
+
+}
+
+.header a:hover{
+  background-color: #dddddd;
+   color: red;
+   padding:.09em;
+}
+
+
 
 h1{
   color: black;
@@ -8,17 +34,20 @@ h1{
 h2{
   color: black;
   text-align: center;
+  background-color: #28528E;
+  color: white;
+  padding:2em;
 }
+
+
 h3{
   color:black;
   text-align:center;
+  background-color: #28528E;
+  color: white;
+  padding:1em;
 }
 
-img{
-  height: 100%;
-  width: 70%;
-
-}
 
 
 h4{
@@ -49,13 +78,58 @@ ul{
 }
 body{
   background-color: white;
+  font-family: Helvetica, sans-serif;
+
 
 }
 
 img {
-  border: 1px solid #ddd;
-  border-radius: 2px;
-  padding: 5px;
-  width: 100px;
+  width:50%;
+
+}
+
+.gallery{
+  margin:5em;
+  border: .05em solid grey;
+  width:50%;
+  text-decoration: none;
+}
+
+
+.courses {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.8em;
+  max-width: 100%;
+}
+
+.courses thead tr {
+    text-align: left;
+    background-color: #28528E;
+    font-weight:bold;
+    color: white;
+
+}
+
+.courses th,
+.courses td {
+  padding: 3em 5em;
+}
+.courses tbody tr {
+  border-bottom: 0.5em solid #dddddd;
+  border-right: 0.5em solid #dddddd;
+  border-left: 0.5em solid #dddddd;
+
+}
+
+.paths {
+ font-size: 0.9em;
+ text-align: left;
+ border-collapse: collapse;
+ max-width: 100%;
+}
+
+.paths td {
+  margin:15px;
 
 }
